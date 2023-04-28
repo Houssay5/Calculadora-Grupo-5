@@ -9,4 +9,3 @@ resultado = resta(numero1, numero2)
 print("El resultado de la operación es: ", resultado)
 
 #Tarea de Jeremias
-
